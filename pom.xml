@@ -2,9 +2,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<parent>
-		<groupId>nz.ac.auckland</groupId>
-		<artifactId>uoa-parent</artifactId>
-		<version>1.8</version>
+		<groupId>nz.ac.auckland.groupapps.parent</groupId>
+		<artifactId>parent-groupapps-central</artifactId>
+		<version>1.1</version>
 	</parent>
 	
 	<groupId>nz.ac.auckland.composite</groupId>
@@ -18,9 +18,15 @@
 	</description>
 	
 	<properties>
-		<aspectj.version>1.7.2</cxf.version>
+		<aspectj.version>1.7.2</aspectj.version>
 	</properties>
 	
+	<scm>
+		<url>https://github.com/uoa-group-applications/composite-spring-aspects</url>
+		<connection>scm:git:https://github.com/uoa-group-applications/composite-spring-aspects.git</connection>
+		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-spring-aspects.git</developerConnection>
+	</scm>
+
 	<dependencies>
 	
 		<dependency>
