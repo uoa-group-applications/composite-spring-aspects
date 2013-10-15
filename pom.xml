@@ -18,15 +18,15 @@
 	</description>
 	
 	<properties>
-		<aspectj.version>1.7.2</aspectj.version>
+		<aspectj.version>1.7.3</aspectj.version>
 	</properties>
 	
 	<scm>
 		<url>https://github.com/uoa-group-applications/composite-spring-aspects</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/composite-spring-aspects.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-spring-aspects.git</developerConnection>
-	  <tag>HEAD</tag>
-  </scm>
+		<tag>HEAD</tag>
+	</scm>
 
 	<dependencies>
 	
