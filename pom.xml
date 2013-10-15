@@ -9,7 +9,7 @@
 	
 	<groupId>nz.ac.auckland.composite</groupId>
 	<artifactId>composite-spring-aspects</artifactId>
-	<version>5.3</version>
+	<version>5.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>composite-spring-aspects</name>
 	
@@ -25,7 +25,7 @@
 		<url>https://github.com/uoa-group-applications/composite-spring-aspects</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/composite-spring-aspects.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/composite-spring-aspects.git</developerConnection>
-		<tag>composite-spring-aspects-5.3</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
